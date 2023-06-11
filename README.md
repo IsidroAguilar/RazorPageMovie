@@ -3,11 +3,7 @@
 Este proyecto es el primer proyecto del curso de Desarrollo web en .NET Core y tiene como objetivo enseñar los aspectos básicos de la compilación de una aplicación web de Razor Pages en ASP.NET Core.
 
 ## Introducción
-Este proyecto proporciona una introducción a la creación de una aplicación web utilizando Razor Pages en ASP.NET Core. Para aquellos desarrolladores que ya están familiarizados con los controladores y las vistas, se recomienda consultar la sección "Introducción a Razor Pages" para obtener información más avanzada. También se puede acceder a un recurso en vídeo llamado "Entity Framework Core para principiantes" para una introducción adicional.
-
-Si esta es tu primera vez desarrollando en ASP.NET Core y no estás seguro de qué solución de interfaz de usuario web de ASP.NET Core se ajusta mejor a tus necesidades, te recomendamos revisar la sección "Elección de una interfaz de usuario web de ASP.NET Core".
-
-Al finalizar este tutorial, habrás creado una aplicación web de páginas Razor que administra una base de datos de películas.
+Este proyecto proporciona una introducción a la creación de una aplicación web utilizando Razor Pages en ASP.NET Core. Para aquellos desarrolladores que ya están familiarizados con los controladores y las vistas.
 
 ## Requisitos previos
 Antes de ejecutar este proyecto, asegúrate de tener instalados los siguientes requisitos:
